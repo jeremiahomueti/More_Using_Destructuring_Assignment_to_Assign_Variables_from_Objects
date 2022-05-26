@@ -22,3 +22,6 @@ function getTempOfTomorrow(AVG_TEMPERATURES)  //
 }
 
 console.log(getTempOfTomorrow(AVG_TEMPERATURES));
+
+//So we successfully used destructuring to get the tomorrow variable out
+//of the avg_temperatures object and into the tempOfTomorrow variable.
